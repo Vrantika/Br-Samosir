@@ -1,5 +1,5 @@
 # Pemrograman Mobile
-# Vrantika Br-Samosir
+# Vrantika Br-Samosir 20190801237
 # Pembuatan mobile apps E- Distribusi Agent.
 
 **# Source code form data barang**
