@@ -620,6 +620,9 @@ while ( $data 	= mysql_fetch_array ($query)) {
 </table>
 
 
+
+**#Source Code Data barang Masuk** 
+
 <doctype html>
 <html>
     <head>
